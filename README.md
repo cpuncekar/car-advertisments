@@ -11,4 +11,5 @@ Description:
 high-end car paint " product advertisement poster, red color, showing the whole process of painting cars with silver metalic paint and other accessories such as rust repair spray cans, text reading is in white font that says " masterqu wallpaper . com ", car on left side next to interior of can with color swatches , background with green theme , and text about brand name being " Master Sci Marejo", 3D rendering, typography design, ultra realistic
 
 ![Car Advertisment](./0-car-advertisment.jpg)
+
 [Car Advertisement - Link](https://www.midjourney.com/jobs/82cb6e28-578b-4770-98a0-238c8da2c913?index=0)
