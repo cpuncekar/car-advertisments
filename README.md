@@ -15,3 +15,12 @@ high-end car paint " product advertisement poster, red color, showing the whole 
 ![Car Advertisment](./0-car-advertisment.jpg)
 
 [Car Advertisement - Link](https://www.midjourney.com/jobs/82cb6e28-578b-4770-98a0-238c8da2c913?index=0)
+
+
+**Car Advertisment**
+
+Description: A social media post design for "WRAPSTORE", a car wrap showroom, featuring an eye-catching white luxury car being glossy wrapped, with a bunch of roll of car wrap film nearby unrolling and the end having a peeled off rolled corner showing it is a sticker, with the text "Looking for a car wrap supplier? At WRAPSTORE we offer quality, style and durability for your corporate wrapping projects! ✅ Wide choice of colours ✅ Top of the line materials 📞 Contact us now for B2B offers!" , the message is clear and attention grabbing, on a vibrant background that adds energy to the promotion of the product or service. The background is dynamic and draws attention to the wrapping
+
+![Car Advertisment](./0-pink-purple.jpg)
+
+[Car Advertisement - Link] (https://www.midjourney.com/jobs/b4974cfb-4114-4069-96a1-bc310366c3b1?index=0)
