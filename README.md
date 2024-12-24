@@ -24,3 +24,11 @@ Description: A social media post design for "WRAPSTORE", a car wrap showroom, fe
 ![Car Advertisment](./0-pink-purple.jpg)
 
 [Car Advertisement - Link] (https://www.midjourney.com/jobs/b4974cfb-4114-4069-96a1-bc310366c3b1?index=0)
+
+
+**Car Advertisment with a Model**
+![Car Advertisment](./0-3-car-advertisment-with-model.jpg)
+[Car Advertisement - Link] (https://www.midjourney.com/jobs/ce0611e2-f006-4356-95f7-a9de0a5f78dc?index=0)
+
+Description: advertising poster for the new car model "Boyek EnJeremy Carro 2035", two cars in different colors, one blue and other orange with black roof, featuring beautiful woman walking next to each of them, in front view, in background blue sky with clouds, reflection on water surface, with text at bottom right corner in large letters about website "M豪车 amerwallet.com" , text is big, modern font, text features global network connection symbol. . The overall atmosphere should convey luxury and elegance.
+
